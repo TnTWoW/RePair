@@ -34,7 +34,7 @@ def main():
 
     ### Load Dataset from https://huggingface.co/datasets/TnT/Multi_CodeNet4Repair
     from datasets import load_dataset
-    raw_datasets = load_dataset("TnT/Multi_CodeNet4Repair")
+    raw_datasets = load_dataset(args.dataset_name)
     test_datasets = raw_datasets['test']
 
     try:
