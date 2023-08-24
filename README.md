@@ -35,13 +35,5 @@ https://huggingface.co/datasets/TnT/Multi_CodeNet4Repair
 ## Usage
 
 ```python
-from transformers import AutoTokenizer
-import transformers
-tokenizer = AutoTokenizer.from_pretrained(model)
-pipeline = transformers.pipeline(
-    "text-generation",
-    model=model,
-    torch_dtype=torch.float32,
-    device_map="auto",
-)
+python inference.py --model_id TnT/process-based-repair --dataset_name TnT/Multi_CodeNet4Repair
 ```
