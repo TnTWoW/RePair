@@ -24,7 +24,7 @@ The code requires some dependencies as specified in `requirements.txt`. Please f
 
 ## Datasets
 
-We establish a multi-step program repair dataset based on [Project_CodeNet](https://github.com/IBM/Project_CodeNet), which we call CodeNet4Repair. It include comprehensive test cases, problem descriptions, and detailed repair steps.
+We establish a multi-step program repair dataset based on CodeNet, which we call CodeNet4Repair. It include comprehensive test cases, problem descriptions, and detailed repair steps.
 
 The dataset are available here:
 
