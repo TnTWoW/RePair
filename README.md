@@ -47,6 +47,7 @@ Please ensure that the code is executable.
 `
 
 ## Our model's Prompt
+`
 Below is a description and wrong answer for the programming problem. Write the correct solution to fix it.
 
 \#\#\# Problem:
@@ -56,3 +57,4 @@ Below is a description and wrong answer for the programming problem. Write the c
 \<buggy program\>
 
 \#\#\# Response:
+`
