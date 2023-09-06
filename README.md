@@ -50,4 +50,9 @@ Please ensure that the code is executable.
 Below is a description and wrong answer for the programming problem. Write the correct solution to fix it.
 
 \#\#\# Problem:
+\<problem string\>
 
+\#\#\# Instruction:
+\<buggy program\>
+
+\#\#\# Response:
