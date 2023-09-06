@@ -45,3 +45,8 @@ Given a problem and incorrect code, please fix the errors in the code and provid
 Note that you need to use markdown format for the code section. 
 Please ensure that the code is executable.
 `
+
+## Our model's Prompt
+`
+Below is a description and wrong answer for the programming problem. Write the correct solution to fix it.
+`###` Problem:
