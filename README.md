@@ -7,9 +7,8 @@ This is the official code for the paper Automated Program Repair with Process-ba
 - [Installation](#installation)
 - [Datasets](#datasets)
 - [Usage](#usage)
-- [GPT-3.5 Prompt](#GPT-3.5 Prompt)
-- [Our model's Prompt](#Our model's Prompt)
-- [Case Study](#Case study)
+- [Prompt Template](#prompt)
+- [Case Study](#cases)
 
 ## Overview
 
@@ -41,7 +40,9 @@ https://huggingface.co/datasets/TnT/Multi_CodeNet4Repair
 python inference.py --model_id TnT/process-based-repair --dataset_name TnT/Multi_CodeNet4Repair
 ```
 
-## GPT-3.5 Prompt
+## Prompt
+
+### GPT-3.5 Prompt
 You will play the role of a programming expert. 
 
 Given a problem and incorrect code, please fix the errors in the code and provide the correct code. 
@@ -50,7 +51,7 @@ Note that you need to use markdown format for the code section.
 
 Please ensure that the code is executable.
 
-## Our model's Prompt
+### Our model's Prompt
 Below is a description and wrong answer for the programming problem. Write the correct solution to fix it.
 
 \#\#\# Problem:
@@ -61,7 +62,7 @@ Below is a description and wrong answer for the programming problem. Write the c
 
 \#\#\# Response:
 
-## Case study
+## Cases
 ![image](https://github.com/TnTWoW/automated-program-repair-with-process-based-feedback/blob/main/img/case.png)
 ![image](https://github.com/TnTWoW/automated-program-repair-with-process-based-feedback/blob/main/img/case2.png)
 ![image](https://github.com/TnTWoW/automated-program-repair-with-process-based-feedback/blob/main/img/case3.png)
