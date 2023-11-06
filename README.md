@@ -64,14 +64,14 @@ Below is a description and wrong answer for the programming problem. Write the c
 
 ## Cases
 ### Case1
-![image](https://github.com/TnTWoW/automated-program-repair-with-process-based-feedback/blob/main/img/case.png)
+![image](https://github.com/TnTWoW/automated-program-repair-with-process-based-feedback/blob/main/img/cases.png)
 ### Case2
-![image](https://github.com/TnTWoW/automated-program-repair-with-process-based-feedback/blob/main/img/case2.png)
+![image](https://github.com/TnTWoW/automated-program-repair-with-process-based-feedback/blob/main/img/cases2.png)
 ### Case3
-![image](https://github.com/TnTWoW/automated-program-repair-with-process-based-feedback/blob/main/img/case3.png)
+![image](https://github.com/TnTWoW/automated-program-repair-with-process-based-feedback/blob/main/img/cases3.png)
 ### Case4
-![image](https://github.com/TnTWoW/automated-program-repair-with-process-based-feedback/blob/main/img/case4.png)
+![image](https://github.com/TnTWoW/automated-program-repair-with-process-based-feedback/blob/main/img/cases4.png)
 ### Case5
-![image](https://github.com/TnTWoW/automated-program-repair-with-process-based-feedback/blob/main/img/case5.png)
+![image](https://github.com/TnTWoW/automated-program-repair-with-process-based-feedback/blob/main/img/cases5.png)
 ### Case6
-![image](https://github.com/TnTWoW/automated-program-repair-with-process-based-feedback/blob/main/img/case6.png)
+![image](https://github.com/TnTWoW/automated-program-repair-with-process-based-feedback/blob/main/img/cases6.png)
