@@ -7,6 +7,9 @@ This is the official code for the paper Automated Program Repair with Process-ba
 - [Installation](#installation)
 - [Datasets](#datasets)
 - [Usage](#usage)
+- [GPT-3.5 Prompt](#GPT-3.5 Prompt)
+- [Our model's Prompt](#Our model's Prompt)
+- [Case Study](#Case study)
 
 ## Overview
 
