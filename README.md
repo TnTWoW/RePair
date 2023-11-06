@@ -67,3 +67,4 @@ Below is a description and wrong answer for the programming problem. Write the c
 ![image](https://github.com/TnTWoW/automated-program-repair-with-process-based-feedback/blob/main/img/case2.png)
 ![image](https://github.com/TnTWoW/automated-program-repair-with-process-based-feedback/blob/main/img/case3.png)
 ![image](https://github.com/TnTWoW/automated-program-repair-with-process-based-feedback/blob/main/img/case4.png)
+![image](https://github.com/TnTWoW/automated-program-repair-with-process-based-feedback/blob/main/img/case5.png)
