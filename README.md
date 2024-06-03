@@ -1,6 +1,6 @@
-## Automated Program Repair with Process-based Feedback
+## RePair: Automated Program Repair with Process-based Feedback
 
-This is the official code for the paper Automated Program Repair with Process-based Feedback
+This is the official code for ACL'24 paper, RePair Automated Program Repair with Process-based Feedback
 
 ### Contents:
 - [Overview](#overview)
