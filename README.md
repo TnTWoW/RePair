@@ -76,7 +76,9 @@ Below is a description and wrong answer for the programming problem. Write the c
 ### Case6
 ![image](https://github.com/TnTWoW/automated-program-repair-with-process-based-feedback/blob/main/img/cases6.png)
 
+## Citation
 If this work helps you, please cite us:
+```
 @inproceedings{zhao2024repair,
       title={RePair: Automated Program Repair with Process-based Feedback}, 
       author={Yuze Zhao and Zhenya Huang and Yixiao Ma and Rui Li and Kai Zhang and Hao Jiang and Qi Liu and Linbo Zhu and Yu Su},
@@ -87,3 +89,4 @@ If this work helps you, please cite us:
       publisher = "Association for Computational Linguistics",
       pages = "16415--16429",
 }
+```
