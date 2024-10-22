@@ -75,3 +75,15 @@ Below is a description and wrong answer for the programming problem. Write the c
 ![image](https://github.com/TnTWoW/automated-program-repair-with-process-based-feedback/blob/main/img/cases5.png)
 ### Case6
 ![image](https://github.com/TnTWoW/automated-program-repair-with-process-based-feedback/blob/main/img/cases6.png)
+
+If this work helps you, please cite us:
+@inproceedings{zhao2024repair,
+      title={RePair: Automated Program Repair with Process-based Feedback}, 
+      author={Yuze Zhao and Zhenya Huang and Yixiao Ma and Rui Li and Kai Zhang and Hao Jiang and Qi Liu and Linbo Zhu and Yu Su},
+      year={2024},
+      booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+      month = aug,
+      year = "2024",
+      publisher = "Association for Computational Linguistics",
+      pages = "16415--16429",
+}
